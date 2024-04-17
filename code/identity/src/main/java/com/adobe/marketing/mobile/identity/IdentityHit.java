@@ -21,7 +21,7 @@ import org.json.JSONObject;
 
 final class IdentityHit {
 
-    private static final String URL = "URL";
+    private static final String URL = "URL ";
     private static final String EVENT = "EVENT";
     private final String url;
     private final Event event;
